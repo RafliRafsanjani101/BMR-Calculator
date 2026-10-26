@@ -4,5 +4,6 @@ Kalkulator Basal Metabolic Rate (BMR) memperkirakan tingkat metabolisme basal An
 # Anggota Kelompok
 1. Muhammad Rafli Rafsanjani (K3524030)
 2. Yusuf Nurul Huda (K3524038)
-3. Muhammad Ramdhani (K35240)
+3. Muhammad Ramdhani (K3524080)
 
+# Dokumentasi Aplikasi
